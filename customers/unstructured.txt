@@ -1,4 +1,4 @@
-UNSTRUCTURED CUSTOMER DATA - TODO: INTERNS IT CLEAN UP
+UNSTRUCTURED CUSTOMER DATA - TODO: INTERNS IT CLEAN UP.
 
 John Doe, johndoe@example.com, Username: jdoe123
 Jane Smith, janesmith@example.com, Preference: Email
